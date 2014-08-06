@@ -4,7 +4,7 @@
  *
  * @package smilematrix
  */
-class smileMatrixInfo
+class smileMatrixCollectorDatatypeInfo
 {
     static function info()
     {
